@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCQ31ujMC8w7AVedPPCUO6wdFxlbkihlyA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>118629861048</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.faceRecNew</string>
+	<key>PROJECT_ID</key>
+	<string>test-emotion-81f09</string>
+	<key>STORAGE_BUCKET</key>
+	<string>test-emotion-81f09.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:118629861048:ios:b824ae9f29b0606fb2164d</string>
+	<key>DATABASE_URL</key>
+	<string>https://test-emotion-81f09-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

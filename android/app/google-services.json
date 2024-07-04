@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "118629861048",
+    "firebase_url": "https://test-emotion-81f09-default-rtdb.firebaseio.com",
+    "project_id": "test-emotion-81f09",
+    "storage_bucket": "test-emotion-81f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118629861048:android:c52332df283633e5b2164d",
+        "android_client_info": {
+          "package_name": "com.example.face_rec_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALhJ2ARX5BMzl_APnvY9VL1JDl3dKHveM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118629861048:android:04009f66e7357b06b2164d",
+        "android_client_info": {
+          "package_name": "com.example.mind_mentor_b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALhJ2ARX5BMzl_APnvY9VL1JDl3dKHveM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118629861048:android:c78f43159d6c0864b2164d",
+        "android_client_info": {
+          "package_name": "com.example.test_emotion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALhJ2ARX5BMzl_APnvY9VL1JDl3dKHveM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
